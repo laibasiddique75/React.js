@@ -1,0 +1,11 @@
+button{
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    padding: 5px;
+}
+
+ Button img {
+    width: 20px;
+    height: 20px;
+}
